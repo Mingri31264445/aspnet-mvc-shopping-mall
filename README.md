@@ -18,11 +18,8 @@ Home page with category menu and banner · Product detail page · Shopping cart 
   </tr>
 </table>
 
-<details>
-<summary>Run locally</summary>
+## Run locally
 
 1. Install the .NET SDK
 2. `dotnet run`
 3. Open the URL shown in the terminal
-
-</details>
